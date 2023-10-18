@@ -217,21 +217,21 @@ Ví dụ: Ta sẽ chơi bài Đập vỡ cây đàn theo <a href="https://www.yo
 <p>Mục tiêu: Kiểm tra xem đăng ký học sử dụng mạng VNU có nhanh hơn mạng khác hay không.</p>
 <p>Thứ tự thực hiện:</p>
 <ol>
-<li>Tìm bằng chứng VNU có Server riêng</li>
-<li>Đo lường thực tế</li>
+<li>Tìm bằng chứng VNU có Server riêng.</li>
+<li>Đo lường thực tế.</li>
 </ol>
 <h2 id="thực-hiện"><a class="header" href="#thực-hiện">Thực hiện</a></h2>
 <h3 id="1-bằng-chứng"><a class="header" href="#1-bằng-chứng">1. Bằng chứng</a></h3>
 <p>Tôi đã thu thập các bài viết, khai thác thông tin hạ tầng VNU. Kết quả như sau:</p>
 <ul>
-<li><a href="https://vnu.edu.vn/home/?C2108/N29750/%5BCET.21.02%5D-Trung-tam-Khao-thi-dai-hoc-Quoc-gia-Ha-Noi-tuyen-dung-Chuyen-vien-vien-phu-trach-Ky-thuat,-ha-tang-cong-nghe-thong-tin.htm">Bản tin tuyển dụng</a> cho thấy VNU cần người quản trị cơ sở hạ tầng công nghệ thông tin</li>
-<li>Sử dụng Windows Server: thông thường các nhà cung cấp dịch vụ cho thuê server sẽ sử dụng Linux, điều này củng cố giả thiết VNU có Server riêng</li>
+<li><a href="https://vnu.edu.vn/home/?C2108/N29750/%5BCET.21.02%5D-Trung-tam-Khao-thi-dai-hoc-Quoc-gia-Ha-Noi-tuyen-dung-Chuyen-vien-vien-phu-trach-Ky-thuat,-ha-tang-cong-nghe-thong-tin.htm">Bản tin tuyển dụng</a> cho thấy VNU cần người quản trị cơ sở hạ tầng công nghệ thông tin.</li>
+<li>Sử dụng Windows Server: thông thường các nhà cung cấp dịch vụ cho thuê server sẽ sử dụng Linux, điều này củng cố giả thiết VNU có Server riêng.</li>
 </ul>
 <pre><code class="language-shell">sudo nmap -O dangkyhoc.vnu.edu.vn
 </code></pre>
 <center><img src="post2/fig1.png" width="100%" height="auto"></center>
 <h3 id="2-Đo-lường-thực-tế"><a class="header" href="#2-Đo-lường-thực-tế">2. Đo lường thực tế</a></h3>
-<p>Giờ sẽ là lúc khảo sát thực tế truy cập website <code>dangkyhoc.vnu.edu.vn</code> tại nhiều vị trí khác nhau</p>
+<p>Giờ sẽ là lúc khảo sát thực tế truy cập website <code>dangkyhoc.vnu.edu.vn</code> tại nhiều vị trí khác nhau.</p>
 <pre><code>mtr dangkyhoc.vnu.edu.vn
 </code></pre>
 <ul>
@@ -258,7 +258,7 @@ Ví dụ: Ta sẽ chơi bài Đập vỡ cây đàn theo <a href="https://www.yo
 <li>Wifi Nhà điều hành VNU</li>
 </ul>
 <center><img src="post2/fig7.png" width="100%" height="auto"></center>
-<p>Như vậy mạng tại Nhà điều hành là đường ngắn nhất để truy cập vào trang <code>dangkyhoc.vnu.edu.vn</code> cũng có nghĩa đây là nơi đớp môn nhanh nhất. Đáng chú ý, có vẻ mạng tại các trường thuộc VNU không được kết nối trực tiếp đến mạng của Nhà điều hành, điều này hơi khác so với suy đoán và mục tiêu ban đầu. Sơ đồ mạng VNU có thể có dạng như phác thảo bên dưới</p>
+<p>Như vậy mạng tại Nhà điều hành là đường ngắn nhất để truy cập vào trang <code>dangkyhoc.vnu.edu.vn</code> cũng có nghĩa đây là nơi đớp môn nhanh nhất. Đáng chú ý, có vẻ mạng tại các trường thuộc VNU không được kết nối trực tiếp đến mạng của Nhà điều hành, điều này hơi khác so với suy đoán và mục tiêu ban đầu. Sơ đồ mạng VNU có thể có dạng như phác thảo bên dưới.</p>
 <center><img src="post2/fig8.png" width="100%" height="auto"></center>
 <h2 id="lời-kết"><a class="header" href="#lời-kết">Lời kết</a></h2>
 <p>Tôi đã cố gắng thuật lại ngắn gọn quá trình điều tra hạ tầng mạng VNU nhằm tìm cách qua mặt các đồng môn thay vì ngồi click chuột như máy khâu và cry, rất nhiều thông tin không thật sự liên quan đã được lược bỏ. Điều thú vị là các website của các trường ULIS, UET, UL, UEB,... cũng nằm cùng mạng với Server <code>dangkyhoc.vnu.edu.vn</code>, nghĩa là mạng Nhà điều hành VNU cũng là nơi nhanh nhất để truy cập vào các trang này, dù chả hữu ích lắm. Bạn có thể hỏi tất cả những thứ này để làm gì? Chà, chỉ việc nhìn vào sự thật, điều duy nhất cần nhớ là 2 hình này:</p>

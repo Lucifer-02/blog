@@ -29,8 +29,8 @@ Mục tiêu: Kiểm tra xem đăng ký học sử dụng mạng VNU có nhanh h�
 
 Thứ tự thực hiện:
 
-1. Tìm bằng chứng VNU có Server riêng
-2. Đo lường thực tế
+1. Tìm bằng chứng VNU có Server riêng.
+2. Đo lường thực tế.
 
 ## Thực hiện
 
@@ -38,8 +38,8 @@ Thứ tự thực hiện:
 
 Tôi đã thu thập các bài viết, khai thác thông tin hạ tầng VNU. Kết quả như sau:
 
-- [Bản tin tuyển dụng](https://vnu.edu.vn/home/?C2108/N29750/[CET.21.02]-Trung-tam-Khao-thi-dai-hoc-Quoc-gia-Ha-Noi-tuyen-dung-Chuyen-vien-vien-phu-trach-Ky-thuat,-ha-tang-cong-nghe-thong-tin.htm) cho thấy VNU cần người quản trị cơ sở hạ tầng công nghệ thông tin
-- Sử dụng Windows Server: thông thường các nhà cung cấp dịch vụ cho thuê server sẽ sử dụng Linux, điều này củng cố giả thiết VNU có Server riêng
+- [Bản tin tuyển dụng](https://vnu.edu.vn/home/?C2108/N29750/[CET.21.02]-Trung-tam-Khao-thi-dai-hoc-Quoc-gia-Ha-Noi-tuyen-dung-Chuyen-vien-vien-phu-trach-Ky-thuat,-ha-tang-cong-nghe-thong-tin.htm) cho thấy VNU cần người quản trị cơ sở hạ tầng công nghệ thông tin.
+- Sử dụng Windows Server: thông thường các nhà cung cấp dịch vụ cho thuê server sẽ sử dụng Linux, điều này củng cố giả thiết VNU có Server riêng.
 
 ```shell
 sudo nmap -O dangkyhoc.vnu.edu.vn
@@ -49,7 +49,7 @@ sudo nmap -O dangkyhoc.vnu.edu.vn
 
 ### 2. Đo lường thực tế
 
-Giờ sẽ là lúc khảo sát thực tế truy cập website `dangkyhoc.vnu.edu.vn` tại nhiều vị trí khác nhau
+Giờ sẽ là lúc khảo sát thực tế truy cập website `dangkyhoc.vnu.edu.vn` tại nhiều vị trí khác nhau.
 
 ```
 mtr dangkyhoc.vnu.edu.vn
@@ -73,7 +73,7 @@ mtr dangkyhoc.vnu.edu.vn
 - Wifi Nhà điều hành VNU
 <center><img src="fig7.png" width="100%" height="auto"></center>
 
-Như vậy mạng tại Nhà điều hành là đường ngắn nhất để truy cập vào trang `dangkyhoc.vnu.edu.vn` cũng có nghĩa đây là nơi đớp môn nhanh nhất. Đáng chú ý, có vẻ mạng tại các trường thuộc VNU không được kết nối trực tiếp đến mạng của Nhà điều hành, điều này hơi khác so với suy đoán và mục tiêu ban đầu. Sơ đồ mạng VNU có thể có dạng như phác thảo bên dưới
+Như vậy mạng tại Nhà điều hành là đường ngắn nhất để truy cập vào trang `dangkyhoc.vnu.edu.vn` cũng có nghĩa đây là nơi đớp môn nhanh nhất. Đáng chú ý, có vẻ mạng tại các trường thuộc VNU không được kết nối trực tiếp đến mạng của Nhà điều hành, điều này hơi khác so với suy đoán và mục tiêu ban đầu. Sơ đồ mạng VNU có thể có dạng như phác thảo bên dưới.
 
 <center><img src="fig8.png" width="100%" height="auto"></center>
 

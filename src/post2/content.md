@@ -8,7 +8,7 @@ Chi tiết kỹ thuật cho ai quan tâm được mô tả bên dưới. Tất c
 
 ### Nghi vấn
 
-Sau đây là các thông tin tích lũy tạo điều kiện tiên quyết giúp hình thành các ý tưởng:
+Sau đây là các thông tin tích lũy tạo điều kiện hình thành các ý tưởng:
 
 1. Siêu máy tính: Trong một Seminar năm 2019 tại VNU, một diễn giả nói rằng VNU có siêu máy tính riêng.
 2. Email nội bộ: Từ 2020 trở về trước, VNU duy trì hệ thống email nội bộ. Sau đó đã [thay thế bằng dịch vụ của Google](https://vnu.edu.vn/ttsk/?C1654/N26883/Huong-dan-su-dung-he-thong-email-moi-cua-dHQGHN.htm).
@@ -91,6 +91,6 @@ Một khi bài viết này được public, sẽ không còn lợi thế đăng 
 
 ## Lưu ý về bài viết
 
-- Mẹo trên áp dụng cho tất cả trường/khoa thuộc VNU.
+- Mẹo trên áp dụng cho **tất cả** trường/khoa thuộc VNU.
 - Chưa thể khẳng định Server đăng ký học nằm bên trong khuôn viên VNU.
 - Nội dung có thể sai có sót do chưa có bất kỳ kinh nghiệm thực tế nào và kiến thức Computer Network chỉ ở mức cơ bản.

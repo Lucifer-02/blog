@@ -1,0 +1,6 @@
+[book]
+authors = ["Lucifer-02"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Blog"

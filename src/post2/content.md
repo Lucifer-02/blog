@@ -49,7 +49,7 @@ sudo nmap -O dangkyhoc.vnu.edu.vn
 
 ### 2. Đo lường thực tế
 
-Giờ sẽ là lúc khảo sát thực tế truy cập website `dangkyhoc.vnu.edu.vn` tại nhiều vị trí khác nhau.
+Giờ là lúc khảo sát thực tế truy cập website `dangkyhoc.vnu.edu.vn` tại nhiều vị trí khác nhau.
 
 ```
 mtr dangkyhoc.vnu.edu.vn

@@ -91,6 +91,6 @@ Một khi bài viết này được public, sẽ không còn lợi thế đăng 
 
 ## Lưu ý về bài viết
 
-- Mẹo trên áp dụng cho **TẤT CẢ** trường/khoa thuộc VNU.
+- Mẹo trên áp dụng cho **TẤT CẢ** các trường/khoa thuộc VNU.
 - Chưa thể khẳng định Server đăng ký học nằm bên trong khuôn viên VNU.
 - Nội dung có thể sai có sót do chưa có bất kỳ kinh nghiệm thực tế nào và kiến thức Computer Network chỉ ở mức cơ bản.

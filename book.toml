@@ -1,6 +1,9 @@
 [book]
 authors = ["Lucifer-02"]
 language = "en"
-multilingual = false
+multilingual = true
 src = "src"
 title = "Blog"
+
+[output.html]
+mathjax-support = true

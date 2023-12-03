@@ -1,6 +1,6 @@
 # Mẹo đăng ký học VNU
 
-> **Tóm tắt**: Đến những nơi mạng khỏe như quán net, cafe,... để đăng ký học thực ra chưa tối ưu. Dùng mạng của **Nhà điều hành VNU** hiệu quả hơn nhiều cho dù truy cập Internet có chậm hơn đi nữa.
+> **Tóm tắt**: Đến những nơi mạng khỏe như quán net, cafe,... để đăng ký học thực ra chưa tối ưu. Dùng mạng của **Nhà điều hành VNU** hiệu quả hơn nhiều ngay cả khi truy cập Internet có chậm hơn đi nữa.
 
 Chi tiết kỹ thuật cho ai quan tâm được mô tả bên dưới. Tất cả thông tin đều được public cho mọi người, không có ma thuật nào đằng sau. Điều đó nói rằng, nếu thứ gì trông giống một con vịt, nó sẽ bơi lội và kêu quạc quạc, vì nó chỉ có vậy.
 

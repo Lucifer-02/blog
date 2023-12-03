@@ -79,13 +79,13 @@ Như vậy mạng tại Nhà điều hành là đường ngắn nhất để tru
 
 ## Lời kết
 
-Mình đã cố gắng thuật lại ngắn gọn quá trình điều tra hạ tầng mạng VNU nhằm tìm cách qua mặt các đồng môn thay vì ngồi click chuột như máy khâu và khóc, rất nhiều thông tin không thật sự liên quan đã được lược bỏ. Một điều thú vị là các website của các trường ULIS, UET, UL, UEB,... cũng nằm cùng mạng với Server `dangkyhoc.vnu.edu.vn`, nghĩa là mạng Nhà điều hành VNU cũng là nơi nhanh nhất để truy cập vào các trang này, dù chả hữu ích lắm. Bạn có thể hỏi tất cả những thứ này để làm gì? Chà, chỉ việc nhìn vào sự thật, điều duy nhất cần nhớ là 2 hình này:
+Mình đã cố gắng thuật lại ngắn gọn quá trình điều tra hạ tầng mạng VNU nhằm tìm cách qua mặt các đồng môn thay vì ngồi click chuột như máy khâu và khóc, rất nhiều thông tin không thật sự liên quan đã được lược bỏ. Bạn có thể hỏi tất cả những thứ này để làm gì? Chà, chỉ việc nhìn vào sự thật, điều duy nhất cần nhớ là 2 hình này:
 
 <center><img src="fig9.jpg" width="100%" height="auto"></center>
 
 <center><img src="fig10.jpg" width="100%" height="auto"></center>
 
-Một khi bài viết này được public, sẽ không còn lợi thế đăng ký học nào nữa. Nhưng chả sao vì mình tốt nghiệp rồi :). Vậy nó còn giá trị không? Câu trả lời nằm ở bạn.
+Một khi bài viết này được public, có thể không còn lợi thế đăng ký học nào nữa. Nhưng chả sao vì mình tốt nghiệp rồi :). Vậy nó còn giá trị không? Câu trả lời nằm ở bạn.
 
 > "The legendary philosopher's stone, said to have the power to turn lead into gold and grant eternal life, was not found in a far-off land or hidden deep within a treacherous cave. It was not guarded by fierce dragons or protected by ancient spells. Instead, it was found in the most ordinary of places, right next to the philosopher's own hearth. It was as if the solution to all of life's greatest mysteries had been there all along, waiting to be discovered by anyone who DARED to look."
 
@@ -94,3 +94,4 @@ Một khi bài viết này được public, sẽ không còn lợi thế đăng 
 - Mẹo trên áp dụng cho **TẤT CẢ** các trường/khoa thuộc VNU.
 - Chưa thể khẳng định Server đăng ký học nằm bên trong khuôn viên VNU.
 - Nội dung có thể sai có sót do chưa có bất kỳ kinh nghiệm thực tế nào và kiến thức Computer Network của mình chỉ ở mức cơ bản.
+- Một điều thú vị là các website của các trường ULIS, UET, UL, UEB,... cũng nằm cùng mạng với Server `dangkyhoc.vnu.edu.vn`, nghĩa là mạng Nhà điều hành VNU cũng là nơi nhanh nhất để truy cập vào các trang này, dù chả hữu ích lắm.

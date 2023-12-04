@@ -89,7 +89,7 @@ Một khi bài viết này được public, có thể không còn lợi thế đ
 
 > "The legendary philosopher's stone, said to have the power to turn lead into gold and grant eternal life, was not found in a far-off land or hidden deep within a treacherous cave. It was not guarded by fierce dragons or protected by ancient spells. Instead, it was found in the most ordinary of places, right next to the philosopher's own hearth. It was as if the solution to all of life's greatest mysteries had been there all along, waiting to be discovered by anyone who DARED to look."
 
-## Lưu ý về bài viết
+## NOTE
 
 - Mẹo trên áp dụng cho **TẤT CẢ** các trường/khoa thuộc VNU.
 - Chưa thể khẳng định Server đăng ký học nằm bên trong khuôn viên VNU.

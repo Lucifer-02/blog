@@ -176,7 +176,7 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="dò-nhanh-tone-với-binary-search"><a class="header" href="#dò-nhanh-tone-với-binary-search">Dò nhanh tone với Binary Search</a></h1>
+                        <h1 id="dò-nhanh-tone-guitar-với-binary-search"><a class="header" href="#dò-nhanh-tone-guitar-với-binary-search">Dò nhanh Tone Guitar với Binary Search</a></h1>
 <p>Giả sử bạn mở 1 bài hát và thấy hay quá , muốn lập tức đệm bài này với Tone ca sĩ. Bạn tra Google và tìm được bộ hợp âm cho bài hát nhưng không được soạn cho Tone trong bản nhạc yêu thích!</p>
 <p>Đừng lo, bài viết này sẽ hướng dẫn cách dò nhanh Tone bạn muốn với giải thuật <code>Binary Search</code>. Mình sẽ không giải thích chi tiết về giải thuật cũng như nhạc lý.</p>
 <h2 id="trình-tự-thực-hiện-như-sau"><a class="header" href="#trình-tự-thực-hiện-như-sau">Trình tự thực hiện như sau:</a></h2>
@@ -207,7 +207,7 @@ rồi đặt Capo tại
 </li>
 </ul>
 <p><strong>Bước 2:</strong> Lặp lại Bước 1 đến khi tìm được đúng ngăn đặt Capo.</p>
-<p><em>Ví dụ:</em> Ta sẽ chơi bài Đập vỡ cây đàn theo <a href="https://www.youtube.com/watch?v=wEFtsu84NZk">bản cover</a> và tìm được <a href="https://hopamchuan.com/song/4095/dap-vo-cay-dan/hoanglespaul?s=1">bộ hợp âm</a>, chơi thử sẽ thấy đây không phải tone của bản cover. Ta tiến hành dò như sau:</p>
+<p><em>Ví dụ:</em> Ta sẽ chơi bài <em>Đập vỡ cây đàn</em> theo <a href="https://www.youtube.com/watch?v=wEFtsu84NZk">bản cover</a> và tìm được <a href="https://hopamchuan.com/song/4095/dap-vo-cay-dan/hoanglespaul?s=1">bộ hợp âm</a>, chơi thử sẽ thấy đây không phải tone của bản cover. Ta tiến hành dò như sau:</p>
 <ul>
 <li>Đầu tiên, đặt \(\text{Ngăn Cao Nhất = 12}\) và \(\text{Ngăn Thấp Nhất = 0}\) như hình minh họa bên dưới(cần đàn acoustic có nhiều hơn 12 ngăn nhưng hầu hết chỉ cần chơi hợp âm đến ngăn 12 thôi). Chơi note Bass của hợp âm <code>Am</code> tức là note <code>A</code> ngăn 2 dây 5</li>
 <li>Nhận thấy note này thấp hơn note ca sĩ hát nên đặt \(\text{Ngăn Thấp Nhất = 0}\) rồi đặt Capo tại ngăn \(\frac{12+0}{2}=6\).</li>

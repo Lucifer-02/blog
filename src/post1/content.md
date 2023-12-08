@@ -1,4 +1,4 @@
-# Dò nhanh tone với Binary Search
+# Dò nhanh Tone Guitar với Binary Search
 
 Giả sử bạn mở 1 bài hát và thấy hay quá , muốn lập tức đệm bài này với Tone ca sĩ. Bạn tra Google và tìm được bộ hợp âm cho bài hát nhưng không được soạn cho Tone trong bản nhạc yêu thích!
 
@@ -30,7 +30,7 @@ Giả sử bạn mở 1 bài hát và thấy hay quá , muốn lập tức đệ
 
 **Bước 2:** Lặp lại Bước 1 đến khi tìm được đúng ngăn đặt Capo.
 
-_Ví dụ:_ Ta sẽ chơi bài Đập vỡ cây đàn theo [bản cover](https://www.youtube.com/watch?v=wEFtsu84NZk) và tìm được [bộ hợp âm](https://hopamchuan.com/song/4095/dap-vo-cay-dan/hoanglespaul?s=1), chơi thử sẽ thấy đây không phải tone của bản cover. Ta tiến hành dò như sau:
+_Ví dụ:_ Ta sẽ chơi bài _Đập vỡ cây đàn_ theo [bản cover](https://www.youtube.com/watch?v=wEFtsu84NZk) và tìm được [bộ hợp âm](https://hopamchuan.com/song/4095/dap-vo-cay-dan/hoanglespaul?s=1), chơi thử sẽ thấy đây không phải tone của bản cover. Ta tiến hành dò như sau:
 
 - Đầu tiên, đặt \\(\text{Ngăn Cao Nhất = 12}\\) và \\(\text{Ngăn Thấp Nhất = 0}\\) như hình minh họa bên dưới(cần đàn acoustic có nhiều hơn 12 ngăn nhưng hầu hết chỉ cần chơi hợp âm đến ngăn 12 thôi). Chơi note Bass của hợp âm `Am` tức là note `A` ngăn 2 dây 5
 - Nhận thấy note này thấp hơn note ca sĩ hát nên đặt \\(\text{Ngăn Thấp Nhất = 0}\\) rồi đặt Capo tại ngăn \\(\frac{12+0}{2}=6\\).

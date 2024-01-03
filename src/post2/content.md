@@ -21,7 +21,7 @@ Nếu đúng thì:
 - Khả năng cao trang `dangkyhoc.vnu.edu.vn` cũng được cài đặt trên Server của VNU.
 - VNU có mạng nội bộ.
 
-=> Mạng nội bộ VNU là nơi có tốc độ truy cập website Đăng ký học nhanh nhất(Do tốc độ truyền tải giữa các máy cùng mạng hầu như luôn nhanh hơn 2 máy khác mạng).
+=> Mạng nội bộ VNU là nơi có tốc độ truy cập website Đăng ký học nhanh nhất(Do tốc độ truyền tải giữa các máy cùng mạng hầu như luôn nhanh hơn máy khác mạng).
 
 ### Mục tiêu và phương án
 
@@ -93,5 +93,5 @@ Một khi bài viết này được public, có thể không còn lợi thế đ
 
 - Mẹo trên áp dụng cho **TẤT CẢ** các trường/khoa thuộc VNU.
 - Chưa thể khẳng định Server đăng ký học nằm bên trong khuôn viên VNU.
-- Nội dung có thể sai có sót do chưa có bất kỳ kinh nghiệm thực tế nào và kiến thức Computer Network của mình chỉ ở mức cơ bản.
+- Nội dung có thể sai có sót do mình chưa có bất kỳ kinh nghiệm thực tế nào và kiến thức Computer Network của mình chỉ ở mức cơ bản.
 - Một điều thú vị là các website của các trường ULIS, UET, UL, UEB,... cũng nằm cùng mạng với Server `dangkyhoc.vnu.edu.vn`, nghĩa là mạng Nhà điều hành VNU cũng là nơi nhanh nhất để truy cập vào các trang này, dù chả hữu ích lắm.

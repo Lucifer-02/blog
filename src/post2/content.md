@@ -4,6 +4,8 @@
 
 Chi tiết kỹ thuật cho ai quan tâm được mô tả bên dưới. Tất cả thông tin đều được public cho mọi người, không có ma thuật nào đằng sau. Điều đó nói rằng, nếu thứ gì trông giống một con vịt, nó sẽ bơi lội và kêu quạc quạc, vì nó chỉ có vậy.
 
+> "The legendary philosopher's stone, said to have the power to turn lead into gold and grant eternal life, was not found in a far-off land or hidden deep within a treacherous cave. It was not guarded by fierce dragons or protected by ancient spells. Instead, it was found in the most ordinary of places, right next to the philosopher's own hearth. It was as if the solution to all of life's greatest mysteries had been there all along, waiting to be discovered by anyone who DARED to look."
+
 ## Intro
 
 ### Nghi vấn
@@ -86,8 +88,6 @@ Mình đã cố gắng thuật lại ngắn gọn quá trình điều tra hạ t
 <center><img src="fig10.jpg" width="100%" height="auto"></center>
 
 Một khi bài viết này được public, có thể không còn lợi thế đăng ký học nào nữa. Nhưng chả sao vì mình tốt nghiệp rồi :). Vậy nó còn giá trị không? Câu trả lời nằm ở bạn.
-
-> "The legendary philosopher's stone, said to have the power to turn lead into gold and grant eternal life, was not found in a far-off land or hidden deep within a treacherous cave. It was not guarded by fierce dragons or protected by ancient spells. Instead, it was found in the most ordinary of places, right next to the philosopher's own hearth. It was as if the solution to all of life's greatest mysteries had been there all along, waiting to be discovered by anyone who DARED to look."
 
 ## Note
 
